@@ -1,0 +1,31 @@
+.form-align{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+
+.vertical-align{
+    position: relative;
+    top: 12%;
+    transform: translateY(-12%);
+}
+
+.form-control{
+    border-radius: 25px;
+}
+
+.btns{
+    width: 100px;
+    border: 10px;
+    background-color: #3E6AE1;
+
+}
+
+.inputcol{
+    width: 40%;
+    align-content: center;
+    border: 2px;
+    border-radius: 10px;
+}
